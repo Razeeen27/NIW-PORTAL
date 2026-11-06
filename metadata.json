@@ -1,0 +1,6 @@
+{
+  "name": "NIW Portal",
+  "description": "NIW Portal - Non-Invasive & Inward Waste Management System for recording incoming vehicles at a waste management facility, with photo capture, cloud sync, duplicate checks, and PDF/Excel reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
