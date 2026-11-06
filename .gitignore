@@ -16,3 +16,17 @@
 local.properties
 .env
 debug.keystore
+# Firebase configuration
+google-services.json
+**/google-services.json
+
+# Environment files
+.env.*
+!.env.example
+
+# Signing credentials
+*.jks
+*.keystore
+
+# Android build outputs
+**/build/
